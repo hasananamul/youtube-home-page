@@ -1,0 +1,28 @@
+@media all and (max-width:991px){
+    .main-video {
+        display: block;
+        margin-bottom: 30px;
+    }
+    .logo-section {
+        text-align: center;
+        padding-bottom: 20px;
+    }
+    .search-box {
+        text-align: center;
+        padding-left: 7px;
+    }
+    .top-button button {
+        padding: 0;
+    }
+    .link-menu,.condition-link {
+        justify-content: space-around;
+    }
+}
+@media all and (max-width:539px){
+    .recomended-channel {
+        width: 50%;
+    }
+    .sticky-top {
+        position: static;
+    }
+}
